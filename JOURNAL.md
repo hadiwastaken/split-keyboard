@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 1 | 11.78h | 7 |
+| Week 5 | Tier 1 | 12.08h | 7 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 4. [2026-11-06: So in this couple of session s i made my schematics ready and assign footprints also i clear my doubts bciz i think guide is almost impossible to understand by beginner and i made my pcb clesr in next](#2026-11-06-so-in-this-couple-of-session-s-i-made-my-schemati)
 5. [2026-11-07: so in this session i route my pcb and fix some bugs](#2026-11-07-so-in-this-session-i-route-my-pcb-and-fix-some-bu)
 6. [2026-11-07: so in this couple of sessions i researched about code and also setup firmware and made my pcb ready also i write my code some portion and i am attaching images.](#2026-11-07-so-in-this-couple-of-sessions-i-researched-about-)
-7. [2026-11-08: so, in this couple of sessions i write my remaining firmware and also create my boom for half-life and I made my repository ready](#2026-11-08-so-in-this-couple-of-sessions-i-write-my-remainin)
+7. [2026-11-08: so, in this couple of sessions i write my remaining firmware and also create my boom for half-life and I made my repository ready and also assign 3D  models tp my pcb](#2026-11-08-so-in-this-couple-of-sessions-i-write-my-remainin)
 
 ## Design
 
@@ -84,12 +84,14 @@ so in this couple of sessions i researched about code and also setup firmware an
 
 [Timelapse](https://lookout.hackclub.com/api/media/c8e756f4-42eb-45fb-bee3-c4c788ed82c9/video.mp4)
 
-### 2026-11-08: so, in this couple of sessions i write my remaining firmware and also create my boom for half-life and I made my repository ready
+### 2026-11-08: so, in this couple of sessions i write my remaining firmware and also create my boom for half-life and I made my repository ready and also assign 3D  models tp my pcb
 
-**2.15h**
+**2.45h**
 
-so, in this couple of sessions i write my remaining firmware and also create my boom for half-life and I made my repository ready
+so, in this couple of sessions i write my remaining firmware and also create my boom for half-life and I made my repository ready and also assign 3D  models tp my pcb
 
 [Timelapse](https://lookout.hackclub.com/api/media/71633699-aa60-467c-bf1d-d92b72ae137f/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/83f006b2-5670-4811-8162-c3aa2c96677e/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/d3366425-e247-4e13-b101-0ff0208ca242/video.mp4)
