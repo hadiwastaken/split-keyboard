@@ -1,5 +1,5 @@
 # split keyboard
-<img width="1090" height="540" alt="splitkeyboard(pcb pic)" src="https://github.com/user-attachments/assets/95675b30-c725-41fe-a63c-1761b56e9750" />
+<img width="798" height="392" alt="splitkeyboard(new)pcbpic" src="https://github.com/user-attachments/assets/c548311b-6835-4cfa-890f-ad8f586a307c" />
 
 **what it it:**
 
