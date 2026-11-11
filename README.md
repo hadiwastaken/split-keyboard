@@ -29,7 +29,5 @@
 
 <img width="1265" height="788" alt="splitkeyboard(right(schematic))" src="https://github.com/user-attachments/assets/6a9e5b08-9237-40fe-81a0-f999da1359f3" />
 
-**PCB:**
 
-<img width="1090" height="540" alt="splitkeyboard(pcb pic)" src="https://github.com/user-attachments/assets/afdde08f-c39a-4cb9-ae0c-486248e5b056" />
 
